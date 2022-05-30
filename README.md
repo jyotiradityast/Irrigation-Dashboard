@@ -6,3 +6,9 @@ visualised data of soil moisture across different regions of a farm in the form 
 moisture levels recorded are out of user-defined range. They can also monitor the amount of water consumed for
 irrigation for assessments. The heat-map is generated using Matplotlib along with NumPy. SQLite and TKinter are
 used for database and GUI respectively.
+  
+## Screenshots
+<img src='screenshot1.png' alt='Dashboard Screesnhot'>
+  
+    
+<img src='screenshot2.png' alt='Dashboard Screesnhot'>
